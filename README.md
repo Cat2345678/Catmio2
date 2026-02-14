@@ -70,7 +70,7 @@ loadstring(game:HttpGet("your_raw_url"))()
 
 ## Todo
 
-- [ ] Multiple XOR pass support
+- [ ] Make it better 
 - [ ] String splitting across multiple table entries  
 - [ ] AST-based variable renaming
 - [ ] Layer stacking config (choose order of pipeline steps)
