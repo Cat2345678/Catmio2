@@ -1,3 +1,4 @@
+-- Settings.lua
 local Config = {
    ["Byte_Shifting"] = {
       ["Enabled"] = true
@@ -5,6 +6,9 @@ local Config = {
    ["Junk_Injection"] = {
       ["Amount"] = 80, -- Eats alot of register 
       ["Enabled"] = true
+   },
+   ["Anti_Tamper"] = {
+      ["Enabled"] = true  -- NEW: Anti-tamper protection
    },
    ["Closure_Wrap"] = {
       ["Enabled"] = true
