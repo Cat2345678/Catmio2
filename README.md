@@ -37,7 +37,7 @@ Then select from the menu:
 | Option | Default | Description |
 |---|---|---|
 | `Byte_Shifting` | `true` | XOR + byte shift encoding |
-| `Junk_Injection` | `true` | Injects dead code (default amount: 450) |
+| `Junk_Injection` | `true` | Injects dead code (default amount: 80) |
 | `Closure_Wrap` | `true` | Wraps output in anonymous closure |
 
 ---
