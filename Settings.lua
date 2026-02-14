@@ -4,7 +4,7 @@ local Config = {
       ["Enabled"] = true
    },
    ["Junk_Injection"] = {
-      ["Amount"] = 80, -- Eats alot of register 
+      ["Amount"] = 8000, -- Eats alot of register 
       ["Enabled"] = true
    },
    ["Anti_Tamper"] = {
