@@ -5,8 +5,6 @@ local StringToSequence = require("Modules.StringToSequence")
 local Watermark = require("Modules.Watermark")
 local Junk = require("Modules.Junk")
 local CLI = require("Modules.CLI")
-local AntiTamper = require("Modules.AntiTamper")
-local Flatter = require("Modules.Flatter")
 
 local Pipeline = {}
 
